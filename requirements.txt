@@ -4,3 +4,5 @@ langchain_ollama
 langchain_community
 streamlit
 python-dotenv
+OpenAI
+langchain_openai
